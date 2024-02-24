@@ -1,0 +1,107 @@
+// baby
+
+// let age :number = 1
+
+// if (age < 2) {
+//     console.log("You are a baby")
+// } else if (age < 4) {
+//     console.log("you are a toddler")
+// } else if (age < 13) {
+//     console.log("you are a kid")
+// } else if (age < 20) {
+//     console.log("you are a teenager")
+// } else if (age < 65) {
+//     console.log("you are an adult")
+// } else {
+//     console.log("you are an elder")
+// }
+
+// toddler
+
+// let age :number = 3
+
+// if (age < 2) {
+//     console.log("You are a baby")
+// } else if (age < 4) {
+//     console.log("you are a toddler")
+// } else if (age < 13) {
+//     console.log("you are a kid")
+// } else if (age < 20) {
+//     console.log("you are a teenager")
+// } else if (age < 65) {
+//     console.log("you are an adult")
+// } else {
+//     console.log("you are an elder")
+// }
+
+// kid
+
+// let age :number = 10
+
+// if (age < 2) {
+//     console.log("You are a baby")
+// } else if (age < 4) {
+//     console.log("you are a toddler")
+// } else if (age < 13) {
+//     console.log("you are a kid")
+// } else if (age < 20) {
+//     console.log("you are a teenager")
+// } else if (age < 65) {
+//     console.log("you are an adult")
+// } else {
+//     console.log("you are an elder")
+// }
+
+// teenager
+
+// let age :number = 18
+
+// if (age < 2) {
+//     console.log("You are a baby")
+// } else if (age < 4) {
+//     console.log("you are a toddler")
+// } else if (age < 13) {
+//     console.log("you are a kid")
+// } else if (age < 20) {
+//     console.log("you are a teenager")
+// } else if (age < 65) {
+//     console.log("you are an adult")
+// } else {
+//     console.log("you are an elder")
+// }
+
+// adult
+
+// let age :number = 50
+
+// if (age < 2) {
+//     console.log("You are a baby")
+// } else if (age < 4) {
+//     console.log("you are a toddler")
+// } else if (age < 13) {
+//     console.log("you are a kid")
+// } else if (age < 20) {
+//     console.log("you are a teenager")
+// } else if (age < 65) {
+//     console.log("you are an adult")
+// } else {
+//     console.log("you are an elder")
+// }
+
+// elder
+
+let age :number = 80
+
+if (age < 2) {
+    console.log("You are a baby")
+} else if (age < 4) {
+    console.log("you are a toddler")
+} else if (age < 13) {
+    console.log("you are a kid")
+} else if (age < 20) {
+    console.log("you are a teenager")
+} else if (age < 65) {
+    console.log("you are an adult")
+} else {
+    console.log("you are an elder")
+}
